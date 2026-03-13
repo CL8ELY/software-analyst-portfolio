@@ -1,0 +1,19 @@
+{
+  "name": "software-analyst-portfolio",
+  "version": "1.0.0",
+  "private": true,
+"scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/starlight": "^0.38.1",
+    "astro": "^6.0.4"
+  }
+}
