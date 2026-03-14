@@ -3,7 +3,7 @@ title: Metodología de trabajo
 description: Enfoque de análisis, estructuración funcional y documentación profesional.
 ---
 
-Mi enfoque de trabajo se basa en tratar el análisis como una disciplina de **estructuración del problema**, no solo como una fase de documentación. El objetivo es construir una comprensión clara del sistema, sus actores, sus reglas y sus procesos, para producir entregables útiles y sostenibles.
+Mi enfoque de trabajo se basa en tratar el análisis como una disciplina de **estructuración del problema**, no solo como una fase de documentación.
 
 ## 1. Comprensión del contexto
 

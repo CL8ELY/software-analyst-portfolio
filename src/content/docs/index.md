@@ -1,61 +1,50 @@
 ---
 title: Portafolio de Analista de Software
 description: Evidencias de análisis, documentación funcional y casos de estudio construidos a partir de experiencia real.
-template: splash
 ---
 
-Soy Analista de Software con **8 años de experiencia** en levantamiento de requisitos, estructuración funcional, documentación profesional y articulación entre necesidades de negocio y equipos técnicos.
+Soy **Elianne**, Analista de Software con **7 años de experiencia** en levantamiento de requisitos, estructuración funcional, documentación profesional y articulación entre necesidades de negocio y equipos técnicos.
 
 Este portafolio reúne **casos de estudio**, **artefactos analíticos** y **documentación como código** construida a partir de experiencia real, con un enfoque orientado a entrevistas técnicas, revisión por líderes y evaluación profesional.
 
-## Propósito del portafolio
+## Propuesta de valor
 
-El objetivo de este sitio es mostrar cómo abordo el análisis de software desde una perspectiva estructurada y profesional:
+Mi principal aporte está en transformar necesidades funcionales y operativas en entregables claros, trazables y útiles para negocio, desarrollo y validación.
 
-- comprensión del contexto del negocio,
-- modelado de procesos y flujos,
-- definición de requisitos y reglas de negocio,
-- producción de entregables claros y trazables,
-- y conexión entre necesidad funcional y solución tecnológica.
+## Resumen de experiencia
 
-## Proyectos que estructuran este portafolio
+He trabajado en análisis de software, documentación funcional, soporte a implementación, despliegue, validación y estructuración de procesos, con una práctica sostenida en entornos de desarrollo y gestión.
 
-Actualmente, el portafolio se organiza alrededor de tres proyectos reales:
+## Proyectos destacados
 
-### Museo 26 de Julio
+- [Museo 26 de Julio](/projects/museo-26-julio/)
+- [Sistema de gestión apícola](/projects/sistema-gestion-apicola/)
+- [Sistema de gestión avícola](/projects/sistema-gestion-avicola/)
 
-Proyecto orientado a la organización y presentación de información en un contexto institucional y de difusión, con implementación asociada a tecnologías web y backend en Laravel.
+## Metodología de análisis
 
-### Sistema de gestión de la empresa apícola
+Mi enfoque combina:
 
-Proyecto centrado en la gestión de procesos e información en un entorno empresarial y productivo, donde el análisis funcional permite estructurar operaciones, actores y reglas del sistema.
-
-### Sistema de gestión del sistema avícola
-
-Proyecto orientado a la organización funcional de procesos de gestión en un contexto operativo específico, con foco en claridad documental, flujo de trabajo y soporte a implementación.
-
-## Qué encontrarás aquí
-
-- casos de estudio profesionales por proyecto,
-- visión general de sistemas,
-- requisitos funcionales representativos,
+- comprensión del contexto,
+- levantamiento de requisitos,
+- modelado de procesos,
 - reglas de negocio,
-- glosarios y artefactos reutilizables,
-- y una metodología de trabajo centrada en análisis de software.
+- validación con stakeholders,
+- y producción de artefactos funcionales.
 
-## Criterios de publicación
+## Artefactos que domino
 
-El contenido publicado aquí sigue estos principios:
+- requisitos funcionales,
+- reglas de negocio,
+- procesos,
+- trazabilidad,
+- glosarios,
+- resúmenes de reuniones,
+- visión general del sistema.
 
-- fidelidad a la experiencia real,
-- claridad estructural,
-- modernización sin deformar el trabajo original,
-- anonimización cuando sea necesaria,
-- y ausencia de métricas o impactos inventados.
-
-## Ruta recomendada de lectura
+## Siguiente recorrido recomendado
 
 1. [Sobre mí](/about/)
 2. [Metodología de trabajo](/methodology/)
-3. [Proyectos](/projects/)
-4. [Artefactos](/artifacts/)
+3. [Casos de estudio](/case-studies/)
+4. [CV](/cv/)
