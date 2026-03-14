@@ -3,9 +3,17 @@ title: Sobre mí
 description: Perfil profesional, enfoque de trabajo y propuesta de valor como Analista de Software.
 ---
 
-Soy un profesional orientado al **análisis de software**, con experiencia en comprensión de procesos, levantamiento de requisitos, estructuración funcional de sistemas y producción de documentación clara para apoyar decisiones, desarrollo y validación.
+<div class="profile-photo-wrapper">
+  <img
+    src="/images/profile/elianne-morejon.png"
+    alt="Elianne Morejón Pereira"
+    class="profile-photo profile-photo--about"
+  />
+</div>
 
-A lo largo de **8 años de trabajo**, he participado en iniciativas donde el análisis no se limitó a redactar documentos, sino a **dar forma al problema**, ordenar la información, identificar actores, reglas y flujos, y convertir necesidades operativas en entregables funcionales útiles para distintas audiencias.
+Soy una profesional orientada al **análisis de software**, con experiencia en comprensión de procesos, levantamiento de requisitos, estructuración funcional de sistemas y producción de documentación clara para apoyar decisiones, desarrollo y validación.
+
+A lo largo de **7 años de trabajo**, he participado en iniciativas donde el análisis no se limitó a redactar documentos, sino a **dar forma al problema**, ordenar la información, identificar actores, reglas y flujos, y convertir necesidades operativas en entregables funcionales útiles para distintas audiencias.
 
 ## Mi propuesta de valor
 

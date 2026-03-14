@@ -5,7 +5,8 @@
 "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "cv:pdf": "pandoc cv-source/cv-elianne-analista-software.md --from=markdown+rebase_relative_paths --resource-path=.;cv-source;cv-source/assets --pdf-engine=typst -o public/cv/cv-elianne-analista-software.pdf"
   },
   "description": "",
   "main": "index.js",
