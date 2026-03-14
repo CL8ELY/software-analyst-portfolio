@@ -1,6 +1,6 @@
 # Software Analyst Portfolio
 
-Portafolio profesional de **Analista de Software** orientado a entrevistas técnicas, revisión por recruiters, líderes técnicos, arquitectos y gerentes.
+Portafolio profesional de **Elianne**, Analista de Software orientado a entrevistas técnicas, revisión por recruiters, líderes técnicos, arquitectas, arquitectos y gerencias.
 
 Este repositorio presenta una base documental moderna construida con **Astro + Starlight**, centrada en **análisis de software**, **documentación funcional** y **casos de estudio** derivados de experiencia real.
 
@@ -33,7 +33,7 @@ Los primeros casos de estudio que estructuran este portafolio son:
 - **Sistema de gestión de la empresa apícola**
 - **Sistema de gestión del sistema avícola**
 
-Cada uno será incorporado progresivamente a partir de documentación real, reorganizada y adaptada a una narrativa profesional, clara y pública.
+Cada uno se incorpora progresivamente a partir de documentación real, reorganizada y adaptada a una narrativa profesional, clara y pública.
 
 ## Qué contiene actualmente
 
@@ -42,7 +42,8 @@ Cada uno será incorporado progresivamente a partir de documentación real, reor
 - metodología de trabajo,
 - catálogo inicial de proyectos,
 - taxonomía de artefactos,
-- base del sitio con Astro y Starlight.
+- base del sitio con Astro y Starlight,
+- flujo inicial para generar el CV en PDF desde Markdown.
 
 ## Stack
 
@@ -50,12 +51,17 @@ Cada uno será incorporado progresivamente a partir de documentación real, reor
 - **Starlight**
 - **Markdown**
 - **Node.js**
+- **Pandoc + Typst** para el CV en PDF
 
 ## Estructura del repositorio
 
 ```text
 .
+├─ cv-source/
+│  ├─ cv-elianne-analista-software.md
+│  └─ cv-metadata.yaml
 ├─ public/
+│  ├─ cv/
 │  ├─ favicon.svg
 │  └─ images/
 │     └─ projects/
@@ -72,3 +78,51 @@ Cada uno será incorporado progresivamente a partir de documentación real, reor
 ├─ tsconfig.json
 ├─ package.json
 └─ README.md
+```
+
+## Desarrollo local
+
+Instalar dependencias:
+
+```bash
+npm install
+```
+
+Iniciar servidor de desarrollo:
+
+```bash
+npm run dev
+```
+
+Compilar para producción:
+
+```bash
+npm run build
+```
+
+Previsualizar build local:
+
+```bash
+npm run preview
+```
+
+Generar el CV en PDF:
+
+```bash
+npm run cv:pdf
+```
+
+## Criterios de publicación
+
+Todo el contenido de este portafolio se rige por estos principios:
+
+- fidelidad a la experiencia real,
+- claridad estructural,
+- lenguaje profesional,
+- anonimización cuando sea necesaria,
+- ausencia de métricas o impactos inventados,
+- y foco en valor analítico antes que en volumen documental.
+
+## Estado
+
+Base documental inicial en construcción.
