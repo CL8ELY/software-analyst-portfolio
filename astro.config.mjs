@@ -2,6 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
+  site: 'https://CL8ELY.github.io',
+  base: '/software-analyst-portfolio',
   integrations: [
     starlight({
       title: 'Elianne · Analista de Software',
@@ -11,7 +13,7 @@ export default defineConfig({
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/TU-USUARIO',
+          href: 'https://github.com/CL8ELY',
         },
       ],
       favicon: '/favicon.svg',
